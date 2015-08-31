@@ -1,0 +1,14 @@
+#list{
+  width:260px;
+}
+.item{
+  width: 250px;
+  height: 20px;
+  margin: 2px;
+  padding: 3px;
+  background-color: #eee;
+  list-style-type:none;
+}
+.colored{
+  background-color: #cceecc;
+}
